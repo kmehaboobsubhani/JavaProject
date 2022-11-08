@@ -11,6 +11,11 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
+             <sonar.organization>mehaboob</sonar.organization>
+             <sonar.host.url>mehaboob</sonar.host.url>
+             <sonar.projectKey>mehaboob</sonar.projectKey>
+             <sonar.login>squ_374a29a8e515094c10ecfe051593694936d67081</sonar.login>
+             
     </properties>
 
     <dependencies>
