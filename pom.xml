@@ -12,7 +12,10 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-             
+    <sonar.organization>test</sonar.organization>
+    <sonar.host.url>http://192.168.0.203:9000 \</sonar.host.url>
+    <sonar.projectKey>test</sonar.projectKey>
+    <sonar.login>sqp_a5921fb5b52fd464c0e12b6dc7e8226dfa29fed6</sonar.login>
              
     </properties>
 
